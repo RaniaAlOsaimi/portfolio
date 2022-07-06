@@ -1,0 +1,31 @@
+   <mat-toolbar class="portfoilo_navbar">
+   
+   <div class="title_p">
+      
+      <img src="assets\Image\Logo.png"> 
+      <span> ANISH KUMAR SINHA</span>   
+</div>
+
+<div class="nav">
+ <!-- <div class="spacer"></div>  -->
+    <a routerLink="Home" mat-button>Home </a>
+    <a routerLink="About"  mat-button>About</a>
+    <a class="Resume" mat-button>Resume</a>
+    <a class="Skills" mat-button>Skills</a>
+    <a class="Porjects"mat-button>Porjects</a>
+    <a class="Contact"mat-button>Contact</a>
+    
+ <!-- <div class="dark"> -->
+      <button mat-icon-button>
+      <button (click)="toggleDarkTheme()">Toggle dark theme</button>
+       <img src="assets\Image\darkmode-logo.png"> </button>
+      
+ <!-- </div>   -->
+
+</div>
+           
+</mat-toolbar>
+
+
+<router-outlet></router-outlet>
+

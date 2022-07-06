@@ -1,0 +1,34 @@
+.email{
+position: fixed;
+width: 216px;
+height: 19px;
+left: 89.88%;
+top: 970px;
+
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+transform: rotate(-90deg);
+ }
+
+
+.line3{
+
+    
+position: absolute;
+width: 3%;
+height: 0px;
+left: 2375px;
+top: 1150px;
+color:#000000 ;
+
+border: 5px solid #000000;
+transform: rotate(1.43deg);
+}

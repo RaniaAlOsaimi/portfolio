@@ -1,0 +1,88 @@
+
+.box{
+position: absolute;
+width: 187px;
+height: 72px;
+left: 369px;
+top: 300px;
+
+background: linear-gradient(90deg, #32F6F6 0%, #A6A79F 100%);
+border-radius: 50px 50px 50px 0px;
+}
+.icon{
+
+position: absolute;
+left: 27.50%;
+right: 60%;
+top: 27.50%;
+bottom: 40.27%;
+font-size: 50px;
+transform: rotate(-25deg);
+color: #E8EC3E;
+}
+h1{
+ position: absolute;
+width: 111px;
+height: 44px;
+left: 20px;
+top: 10px;
+
+text-align: center;
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+color: #FFFFFF;
+
+}
+
+
+.text{
+position: absolute;
+width: 288px;
+height: 81px;
+left: 369px;
+top: 382px;
+
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 85px;
+
+color: #000000;
+}
+
+.anish{
+    position: absolute;
+width: 288px;
+height: 81px;
+left: 468px;
+top: 382px;
+
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 85px;
+color: #737373;
+}
+.SText{
+    position: absolute;
+    width: 624px;
+    height: 77px;
+    left: 369px;
+    top: 470px;
+    
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 40px;
+    
+    color: #000000;
+
+}
+
+

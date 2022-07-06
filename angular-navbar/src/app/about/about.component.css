@@ -1,0 +1,104 @@
+.text1{
+
+    position: absolute;
+width: 270.25px;
+height: 75px;
+left: 550px;
+top: 200px;
+
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 85px;
+
+color: #000000;
+}
+
+p{
+
+    position: absolute;
+width: 1045px;
+height: 410px;
+left: 550px;
+top: 312px;
+
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+
+.Hand{
+
+ position: absolute;
+width: 500px;
+height: 580px;
+left: 0.0px;
+top: 350px;
+
+
+}
+
+
+.image3{
+
+    position: absolute;
+    left: 90.14%;
+    right: 64.84%;
+    top: 0;
+    bottom: 14.35%;
+    transform: rotate(5deg);
+    
+
+}
+
+
+.image4{
+
+    position: absolute;
+left: 22.14%;
+right: 64.84%;
+top: 73.5%;
+bottom: 14.35%;
+transform: rotate(5deg);
+}
+
+.image5{
+
+    position: absolute;
+left: 66.41%;
+right: 15.36%;
+top: 70.39%;
+bottom: -4.17%;
+
+
+transform: rotate(-5deg);
+}
+
+.line1{
+    position: absolute;
+    width: 300.6px;
+    height: 0px;
+    left: 826.25px;
+    top: 250px;
+    
+    border: 1px solid #000000;
+
+
+}
+
+.line2{
+
+    position: absolute;
+width: 348.8px;
+height: 0px;
+left: 865.31px;
+top: 764px;
+
+border: 1px solid #000000;
+}
